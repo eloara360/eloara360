@@ -1,16 +1,13 @@
-## Hi there 👋
+## Olá 👋
 
-<!--
-**eloara360/eloara360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é Thalia :heart:
 
-Here are some ideas to get you started:
+sou amante de esportes :soccer:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+louca por academia :muscle:
+
+" A loucura é o melhor caminho para a felicidade" :stuck_out_tongue:
+
+15 y
+
+![](https://cdn.pixabay.com/animation/2023/04/15/05/40/05-40-05-49_512.gif)
